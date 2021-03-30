@@ -30,7 +30,7 @@ public class Main {
 
         System.out.printf("Nilai awal b: %d\n",+b);
         System.out.printf("Nilai dengan prefix ++b: %d\n\n",++b);/*prefix memungkinkan kita mengubah nilai
-        sebelum variable di panggil*/
+        sebelum variable di panggil */
 
         //unary untuk boolean (!) untuk menegasi nilai variable
         boolean married = true;
